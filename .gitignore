@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+key.txt
+*.pem
+*.key
+.conda/
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.tmp/
+data/
+target/
+*.log
+*.gguf
+.DS_Store
